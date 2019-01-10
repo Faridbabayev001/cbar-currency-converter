@@ -1,0 +1,27 @@
+{
+    "name": "cbar-currency-converter",
+    "version": "1.0.0",
+    "description": "Bulletin of official rates of the Central Bank of the Republic of Azerbaijan against the Azerbaijani manat of foreign currencies and bank metals",
+    "main": "cbar.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cbar",
+        "currency",
+        "exchange",
+        "money",
+        "coin",
+        "convert"
+    ],
+    "author": "Farid Babayev",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Faridbabayev001/cbar-currency-converter/issues"
+    },
+    "homepage": "https://github.com/Faridbabayev001/cbar-currency-converter/#readme",
+    "dependencies": {
+        "moment": "^2.23.0",
+        "xml-js": "^1.6.8"
+    }
+}
