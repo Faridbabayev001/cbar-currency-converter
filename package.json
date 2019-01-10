@@ -1,6 +1,6 @@
 {
     "name": "cbar-currency-converter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Bulletin of official rates of the Central Bank of the Republic of Azerbaijan against the Azerbaijani manat of foreign currencies and bank metals",
     "main": "cbar-currency-converter.js",
     "scripts": {
